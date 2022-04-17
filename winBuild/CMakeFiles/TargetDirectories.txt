@@ -1,0 +1,4 @@
+C:/projects/AStyle/winBuild/CMakeFiles/astyle.dir
+C:/projects/AStyle/winBuild/CMakeFiles/INSTALL.dir
+C:/projects/AStyle/winBuild/CMakeFiles/ALL_BUILD.dir
+C:/projects/AStyle/winBuild/CMakeFiles/ZERO_CHECK.dir

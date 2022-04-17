@@ -1,0 +1,8 @@
+# Visual Studio clutter
+
+build/*
+windowsBuild/*
+
+*.~*
+*.*~
+*.*;*

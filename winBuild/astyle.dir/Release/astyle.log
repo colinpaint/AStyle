@@ -1,0 +1,12 @@
+﻿  Building Custom Rule C:/projects/AStyle/CMakeLists.txt
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.31.31105 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  cl /c /W3 /WX- /diagnostics:column /O2 /Ob2 /D _MBCS /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"astyle.dir\Release\\" /Fd"astyle.dir\Release\vc143.pdb" /external:W3 /Gd /TP /errorReport:prompt C:\projects\AStyle\src\ASBeautifier.cpp C:\projects\AStyle\src\ASEnhancer.cpp C:\projects\AStyle\src\ASFormatter.cpp C:\projects\AStyle\src\ASLocalizer.cpp C:\projects\AStyle\src\ASResource.cpp C:\projects\AStyle\src\astyle_main.cpp
+  ASBeautifier.cpp
+  ASEnhancer.cpp
+  ASFormatter.cpp
+  ASLocalizer.cpp
+  ASResource.cpp
+  astyle_main.cpp
+  Generating Code...
+  astyle.vcxproj -> C:\projects\AStyle\winBuild\Release\AStyle.exe
